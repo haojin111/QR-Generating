@@ -15,9 +15,17 @@ CRUD of QR code request are implemented here.
 - Form validation
 - Routing
 - SQLite Db schema and model of Qr request
-- 
 
 Anyone can extend web application from it.
+
+## Install
+- ``` composer install
+- ``` php artisan migrate
+- ``` npm install
+- ``` npm run build 
+- ``` php artisan serve
+
+
 
 ## Contributing
 
