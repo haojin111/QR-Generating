@@ -19,11 +19,11 @@ CRUD of QR code request are implemented here.
 Anyone can extend web application from it.
 
 ## Install
-- ``` composer install
-- ``` php artisan migrate
-- ``` npm install
-- ``` npm run build 
-- ``` php artisan serve
+- ``` composer install ```
+- ``` php artisan migrate ```
+- ``` npm install ```
+- ``` npm run build ``` or ```npm run dev ```
+- ``` php artisan serve ```
 
 
 
