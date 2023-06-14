@@ -118,6 +118,6 @@ class QrRequestController extends Controller
             return redirect()->with('error', 'Invalid request');
         }
         $qr_request->delete();
-        return redirect()->route('qr_request.index')->with('message', "success");
+        return redirect()->Intended('qr_request');
     }
 }
